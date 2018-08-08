@@ -1,0 +1,11 @@
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.deps.json
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.runtimeconfig.json
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.runtimeconfig.dev.json
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.dll
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.csprojAssemblyReference.cache
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.csproj.CoreCompileInputs.cache
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.AssemblyInfoInputs.cache
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.AssemblyInfo.cs
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\bin\Debug\netcoreapp2.0\GoodStore.pdb
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.dll
+E:\PROJECTS\BaseCamp\GoodStore\GoodStore\obj\Debug\netcoreapp2.0\GoodStore.pdb
